@@ -1,0 +1,184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: taxonomy-terms-order\n"
+"POT-Creation-Date: 2013-10-09 22:33+0400\n"
+"PO-Revision-Date: 2013-10-09 23:07+0400\n"
+"Last-Translator: Вадим <vadim.bogaiskov@gmail.com>\n"
+"Language-Team: Vadim Bogaiskov <vadim.bogaiskov@gmail.com>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: F:\\Dropbox\\WP\\Плагины\\Улучшения\\taxonomy-terms-order"
+"\\taxonomy-terms-order\n"
+"Plural-Forms: nplurals=3; plural=((((n%10)==1)&&((n%100)!=11))?(0):(((((n%10)"
+">=2)&&((n%10)<=4))&&(((n%100)<10)||((n%100)>=20)))?(1):2));\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: taxonomy-terms-order.php:88
+msgid "Taxonomy Terms Order"
+msgstr "Taxonomy Terms Order"
+
+#: taxonomy-terms-order.php:114 taxonomy-terms-order.php:116
+#: include/interface.php:19
+msgid "Taxonomy Order"
+msgstr "Taxonomy Order"
+
+#: include/interface.php:52 include/options.php:57
+msgid ""
+"Did you find this plugin useful? Please support our work with a donation or "
+"write an article about this plugin in your blog with a link to our site"
+msgstr ""
+"Вы считаете этот плагин полезным? Пожалуйста, поддержите нашу работу "
+"пожертвованием или напишите статью об этом плагине в Вашем блоге со ссылкой "
+"на наш сайт"
+
+#: include/interface.php:53 include/options.php:58
+msgid ""
+"Did you know there is available a more advanced version of this plug-in?"
+msgstr "Знаете ли Вы, что имеется более продвинутая версия этого плагина?"
+
+#: include/interface.php:53 include/options.php:58
+msgid "Read more"
+msgstr "Подробнее..."
+
+#: include/interface.php:54 include/options.php:59
+msgid "Check our"
+msgstr "Ознакомьтесь с нашим плагином"
+
+#: include/interface.php:54 include/options.php:59
+msgid "plugin which allow to custom sort all posts, pages, custom post types"
+msgstr ""
+", который разрешает пользовательскую сортировку всех сообщений, страниц, "
+"пользовательские типы сообщение"
+
+#: include/interface.php:60
+msgid ""
+"This plugin can't work without javascript, because it's use drag and drop "
+"and AJAX."
+msgstr ""
+"Этот плагин не может работать без JavaScript, так как он использует  "
+"перетаскивание drag and drop и AJAX."
+
+#: include/interface.php:96
+msgid "Taxonomies"
+msgstr "Систематизация"
+
+#: include/interface.php:100
+msgid "Taxonomy Title"
+msgstr "Taxonomy Title"
+
+#: include/interface.php:100
+msgid "Total  Posts"
+msgstr "Всего сообщений"
+
+#: include/interface.php:150
+msgid "Update"
+msgstr "Обновить"
+
+#: include/interface.php:199
+msgid "Items Order Updates"
+msgstr "Порядок элементов обновлен"
+
+#: include/options.php:16
+msgid "Settings Saved"
+msgstr "Настройки сохранены"
+
+#: include/options.php:24
+msgid "General Settings"
+msgstr "Общие настройки"
+
+#: include/options.php:64
+msgid "General"
+msgstr "Общие"
+
+#: include/options.php:69
+msgid "Minimum Level to use this plugin"
+msgstr "Минимальный уровнь для использования этого плагина"
+
+#: include/options.php:72
+msgid "Subscriber"
+msgstr "Подписчик"
+
+#: include/options.php:73
+msgid "Contributor"
+msgstr "Помощник"
+
+#: include/options.php:74
+msgid "Author"
+msgstr "Автор"
+
+#: include/options.php:75
+msgid "Editor"
+msgstr "Редактор"
+
+#: include/options.php:76
+msgid "Administrator"
+msgstr "Администратор"
+
+#: include/options.php:83
+msgid "Auto Sort"
+msgstr "Автоматическая сортировка"
+
+#: include/options.php:86
+msgid "OFF"
+msgstr "Выкл."
+
+#: include/options.php:87
+msgid "ON"
+msgstr "Вкл."
+
+#: include/options.php:88
+msgid "global setting"
+msgstr "глобальные настройки"
+
+#: include/options.php:93
+msgid "Admin Sort"
+msgstr "Сортировка администратора"
+
+#: include/options.php:97
+msgid "This will change the order of terms within the admin interface"
+msgstr "Это приведет к изменению порядка элементов в интерфейсе администратора"
+
+#: include/options.php:105
+msgid "Autosort OFF"
+msgstr "Автосортировка откл."
+
+#: include/options.php:106
+msgid ""
+"No query will be changed, the terms will appear in the original order. To "
+"retrieve the terms in the required order you must use the term_order on the "
+"orderby parameter"
+msgstr ""
+"Ни по одному запросу ничего не будет изменено, условия появятся в исходном "
+"порядке. Для получения условий в требуемом порядке необходимо использовать "
+"term_order в параметре OrderBy"
+
+#: include/options.php:114
+msgid "See more info on the get_terms usage"
+msgstr "См. подробнее о использовании get_terms"
+
+#: include/options.php:114
+msgid "here"
+msgstr "здесь"
+
+#: include/options.php:116
+msgid "Autosort ON"
+msgstr "Автосортировка вкл."
+
+#: include/options.php:117
+msgid ""
+"The queries will be updated, all terms will appear in the order you manually "
+"defined. This is recommended if you don't want to change any theme code to "
+"apply the terms order"
+msgstr ""
+"Запросы будут обновлены, все условия будут появляться в порядке определенном "
+"Вами вручную. Это рекомендуется делать, если Вы не хотите изменить код  темы "
+"при  упорядочивании"
+
+#: include/options.php:127
+msgid "Save Settings"
+msgstr "Сохранить настройки"
